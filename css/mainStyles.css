@@ -1,0 +1,110 @@
+.myNav{
+	color: black;
+	height: 150px;
+}
+
+h1{
+font-size: 100px;
+font-family: deftone stylus;
+} 
+
+.navBorder{
+	border-style: solid;
+}
+
+.underNav{
+	background-color: #FFBA5C;
+	position: absolute;
+	top: 300px;
+	height: 300px;
+	width: 80%;
+}
+
+.underNavMargin{
+	margin-top: 50px;
+}
+
+.underNavPics{
+	width: 100%;
+	height: auto;
+}
+
+.about{
+	background-color: #FFBA5C;
+	margin-top: 100px;
+}
+
+.aboutBackground{
+	background-color: #FFBA5C;
+	position: absolute;
+	top: 300px;
+	height: 300px;
+	width: 80%;
+}
+
+.aboutMe{
+	background-color: white;
+}
+
+.aboutPics{
+	width: 350px;
+    height: auto;
+    
+}
+
+.aboutText{
+	background-color: #FFBA5C;
+}
+
+h2{
+	font-size: 55px;
+	text-align: center;
+	font-family: deftone stylus;
+}
+
+.projects{
+	background-color: #4d9156;
+	margin-top: 75px;
+}
+
+.projectsHeader{
+	background-color: white;
+}
+
+.projectsPics{
+	width: 300px;
+    height: 300px; 
+}
+
+.projectsText{
+	background-color: #4d9156;
+}
+
+.contacts{
+	background-color: #65658B;
+	height: 400px;
+	margin-top: 100px;
+}
+
+.contactsHeader{
+	background-color: white;
+}
+
+.contactsBody{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.messageSubmit{
+	margin-left: 675px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+table-layout: fixed
+
+td{
+    word-wrap:break-word
+}
